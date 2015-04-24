@@ -116,3 +116,4 @@ function playTo(x) {
     console.log( [playerWins, computerWins]);
 }}
 
+//completed 4-24-2015
